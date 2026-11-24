@@ -1,0 +1,6 @@
+{
+  "name": "animal-sky",
+  "version": "0.1.0",
+  "description": "A calm night-sky background that follows your clock and the real moon, with an animal for each hour that reacts to what Claude is doing",
+  "types": "./types/index.d.ts"
+}

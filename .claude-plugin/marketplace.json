@@ -1,0 +1,5 @@
+{
+  "name": "animal-sky",
+  "owner": { "name": "VivekJain13" },
+  "plugins": [{ "name": "animal-sky", "source": "./" }]
+}
